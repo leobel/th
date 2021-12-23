@@ -1,0 +1,2234 @@
+{
+    "protocol_code": "AI",
+    "id": "f645dc78-21de-4dcf-bd7a-08d6556a5a03",
+    "sap": 33,
+    "tri": 33,
+    "file": "superTest.jpg",
+    "hash": "596f577301a209a12880301e55d4e0b5",
+    "file_a": "superTest_a.png",
+    "file_c": "superTest_c.png",
+    "file_d": "superTest_d.yaml",
+    "file_n": "superTest_n.jpg",
+    "file_p": "superTest_p.jpg",
+    "file_s": "superTest_s.jpg",
+    "file_t": "superTest_t.jpg",
+    "version": "1.7.0",
+    "has_pain": false,
+    "has_injury": false,
+    "laterality": -0.33,
+    "file_base_url": "/db_images/th_tersatestpaul/process/f645dc78-21de-4dcf-bd7a-08d6556a5a03/ai/",
+    "asymmetry_rl_avg": -0.02,
+    "asymmetry_abs_avg": 0.14,
+    "global_temperature": 30.15,
+    "thermal_image_width": null,
+    "thermal_image_height": null,
+    "global_temperature_havg": 30.15,
+    "global_temperature_havg_full": 30.15,
+    "rois": {
+        "OUTER_FRONT_THIGH": {
+            "rois_code": "AI:0",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 30.56
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 30.6
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 31.2
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 31.48
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 28.93
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 28.7
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.57
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 0.69
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 555
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 559
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.04
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.56
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.6
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.57
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.69
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.04
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.56
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.6
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.57
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.69
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.04
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "CENTRAL_FRONT_THIGH": {
+            "rois_code": "AI:1",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 1
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 30.32
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 30.63
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 30.84
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 31.3
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 29.28
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 29.08
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.26
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 0.4
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 806
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 871
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": -0.31
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.31
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.32
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.63
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.26
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.4
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": -0.31
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.31
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.32
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.63
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.26
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.4
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": -0.31
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.31
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "FRONT_ADDUCTOR": {
+            "rois_code": "AI:2",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 2
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 30.08
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 30.08
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 32.73
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 32.36
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 29.19
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 28.65
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 0.73
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 269
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 212
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.08
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.08
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.73
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": 0
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.08
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.08
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.73
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "INNER_FRONT_THIGH": {
+            "rois_code": "AI:3",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 3
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 30.33
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 30.37
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 30.77
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 31.14
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 29.26
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 28.63
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.36
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 0.44
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 422
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 374
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.04
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.33
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.37
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.36
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.44
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.04
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.33
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.37
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.36
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.44
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.04
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "KNEE": {
+            "rois_code": "AI:4",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 4
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 28.26
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 28.3
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 30.77
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 30.16
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 26.61
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 26.66
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.92
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 0.95
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 482
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 522
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.04
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 28.26
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 28.3
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.92
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.95
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.04
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 28.26
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 28.3
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.92
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.95
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": -0.04
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.04
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "OUTER_FRONT_LEG": {
+            "rois_code": "AI:5",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 5
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 31.21
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 31.09
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 32.32
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 32.49
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 28.26
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 27.67
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.94
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 1.12
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 550
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 541
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": 0.12
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.12
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 31.21
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 31.09
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.94
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 1.12
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": 0.12
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.12
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 31.21
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 31.09
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.94
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 1.12
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.12
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.12
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "INNER_FRONT_LEG": {
+            "rois_code": "AI:6",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 6
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 30.91
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 30.82
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 32.38
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 32.81
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 28.2
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 27.69
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.96
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 1.25
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 515
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 582
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": 0.09
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.09
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.91
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.82
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.96
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 1.25
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": 0.09
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.09
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.91
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.82
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.96
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 1.25
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.09
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.09
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "ANKLE": {
+            "rois_code": "AI:7",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 7
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 30.13
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 29.8
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 31.04
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 30.98
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 29.26
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 28.39
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 0.45
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 0.7
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 166
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 169
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": 0.33
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.33
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 30.13
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 29.8
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.45
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 0.7
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": 0.33
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.33
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 30.13
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 29.8
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.45
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.7
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.33
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.33
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        },
+        "ANTERIOR_FOOT": {
+            "rois_code": "AI:8",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "index": 0,
+                    "metric": "Protocol code",
+                    "code": "PROTOCOL_CODE",
+                    "value": "AI"
+                },
+                "ROI_INDEX": {
+                    "index": 1,
+                    "metric": "roi index",
+                    "code": "ROI_INDEX",
+                    "value": 8
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "index": 2,
+                    "metric": "Right mean temperature",
+                    "code": "RIGHT_MEAN_TEMP",
+                    "value": 27.95
+                },
+                "LEFT_MEAN_TEMP": {
+                    "index": 3,
+                    "metric": "Left mean temperature",
+                    "code": "LEFT_MEAN_TEMP",
+                    "value": 28.25
+                },
+                "RIGHT_MAX_TEMP": {
+                    "index": 4,
+                    "metric": "Right max. temperature",
+                    "code": "RIGHT_MAX_TEMP",
+                    "value": 30.96
+                },
+                "LEFT_MAX_TEMP": {
+                    "index": 5,
+                    "metric": "Left max. temerature",
+                    "code": "LEFT_MAX_TEMP",
+                    "value": 31.28
+                },
+                "RIGHT_MIN_TEMP": {
+                    "index": 6,
+                    "metric": "Right min. temperature",
+                    "code": "RIGHT_MIN_TEMP",
+                    "value": 22.78
+                },
+                "LEFT_MIN_TEMP": {
+                    "index": 7,
+                    "metric": "Left min. temperature",
+                    "code": "LEFT_MIN_TEMP",
+                    "value": 22.71
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "index": 8,
+                    "metric": "Right standard deviation",
+                    "code": "RIGHT_STANDARD_DEVIATION",
+                    "value": 2.18
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "index": 9,
+                    "metric": "Left standard deviation",
+                    "code": "LEFT_STANDARD_DEVIATION",
+                    "value": 2.32
+                },
+                "RIGHT_NUM_PXL": {
+                    "index": 10,
+                    "metric": "Right number of pixels",
+                    "code": "RIGHT_NUM_PXL",
+                    "value": 262
+                },
+                "LEFT_NUM_PXL": {
+                    "index": 11,
+                    "metric": "Left number of pixels",
+                    "code": "LEFT_NUM_PXL",
+                    "value": 270
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "index": 12,
+                    "metric": "Asymmetry right-left",
+                    "code": "ASYMMETRY_RIGHT_LEFT",
+                    "value": -0.3
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "index": 13,
+                    "metric": "Absolute asymmetry",
+                    "code": "ABSOLUTE_ASYMMETRY",
+                    "value": 0.3
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "index": 14,
+                    "metric": "Neutralized asymmetry right-left",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "index": 15,
+                    "metric": "Right coeficient of variation",
+                    "code": "RIGHT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "index": 16,
+                    "metric": "Left coeficient of variation",
+                    "code": "LEFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "index": 17,
+                    "metric": "Right softened coeficient of variation",
+                    "code": "RIGHT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "index": 18,
+                    "metric": "Left softened coeficient of variation",
+                    "code": "LEFT_SOFT_COEF_VARIATION",
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "index": 19,
+                    "metric": "Asymmetry variability",
+                    "code": "ASYMMETRY_VARIABILITY",
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 20,
+                    "metric": "Right mean temperature historical average",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 27.95
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "index": 21,
+                    "metric": "Left mean temperature historical average",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG",
+                    "value": 28.25
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 22,
+                    "metric": "Right standard deviation historical average",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 2.18
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "index": 23,
+                    "metric": "Left standard deviation historical average",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG",
+                    "value": 2.32
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "index": 24,
+                    "metric": "Asymmetry right-left historical average",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG",
+                    "value": -0.3
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "index": 25,
+                    "metric": "Absolute asymmetry historical average",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG",
+                    "value": 0.3
+                },
+                "RIGHT_INJURED": {
+                    "index": 26,
+                    "metric": "Right injured",
+                    "code": "RIGHT_INJURED",
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "index": 27,
+                    "metric": "Left injured",
+                    "code": "LEFT_INJURED",
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 28,
+                    "metric": "Neutralized asymmetry right-left historical average (all sessions)",
+                    "code": "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 29,
+                    "metric": "Right coeficient of variation (all sessions)",
+                    "code": "RIGHT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 30,
+                    "metric": "Left coeficient of variation (all sessions)",
+                    "code": "LEFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 31,
+                    "metric": "Right softened coeficient of variation (all sessions)",
+                    "code": "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "index": 32,
+                    "metric": "Left softened coeficient of variation (all sessions)",
+                    "code": "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS",
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 33,
+                    "metric": "Right mean temperature historical average (all sessions)",
+                    "code": "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 27.95
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 34,
+                    "metric": "Left mean temperature historical average (all sessions)",
+                    "code": "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 28.25
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 35,
+                    "metric": "Right standard deviation historical average (all sessions)",
+                    "code": "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 2.18
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 36,
+                    "metric": "Left standard deviation historical average (all sessions)",
+                    "code": "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 2.32
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 37,
+                    "metric": "Asymmetry right-left historical average (all sessions)",
+                    "code": "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": -0.3
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "index": 38,
+                    "metric": "Absolute asymmetry historical average (all sessions)",
+                    "code": "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS",
+                    "value": 0.3
+                },
+                "IS_ROI_VALID": {
+                    "index": 39,
+                    "metric": "Is ROI valid",
+                    "code": "IS_ROI_VALID",
+                    "value": true
+                }
+            }
+        }
+    }
+}
