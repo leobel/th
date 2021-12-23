@@ -1,0 +1,1404 @@
+{
+    "protocol_code": "PS",
+    "id": "f645dc78-21de-4dcf-bd7a-08d6556a5a03",
+    "sap": 45,
+    "tri": 82,
+    "file": "superTestPS.jpg",
+    "hash": "b7a37c4f9592ad9944b9cb6ee2832eda",
+    "file_a": "superTestPS_a.png",
+    "file_c": "superTestPS_c.png",
+    "file_d": "superTestPS_d.yaml",
+    "file_n": "superTestPS_n.jpg",
+    "file_p": "superTestPS_p.jpg",
+    "file_s": "superTestPS_s.jpg",
+    "file_t": "superTestPS_t.jpg",
+    "version": "1.7.0",
+    "has_pain": false,
+    "has_injury": false,
+    "laterality": 0.6,
+    "file_base_url": "/db_images/th_tersatestpaul/process/f645dc78-21de-4dcf-bd7a-08d6556a5a03/ps/",
+    "asymmetry_rl_avg": 0.22,
+    "asymmetry_abs_avg": 0.33,
+    "global_temperature": 31.74,
+    "thermal_image_width": null,
+    "thermal_image_height": null,
+    "global_temperature_havg": 31.74,
+    "global_temperature_havg_full": 31.74,
+    "rois": {
+        "BACK_NECK": {
+            "rois_code": "PS:0",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 33.19
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 33.14
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 34.08
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 34
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 31.98
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 32.03
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.45
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.38
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 465
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 576
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0.05
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.05
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 33.19
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 33.14
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.45
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.38
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": 0.05
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.05
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 33.19
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 33.14
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.45
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.38
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.05
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.05
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "BACK_TRAPEZIUS": {
+            "rois_code": "PS:1",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 1
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 32.98
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 33.06
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 34.1
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 34
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 30.15
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 30.56
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.83
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.7
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 324
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 351
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": -0.08
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.08
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.98
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 33.06
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.83
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.7
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": -0.08
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.08
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.98
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 33.06
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.83
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.7
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": -0.08
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.08
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "BACK_SHOULDER": {
+            "rois_code": "PS:2",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 2
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 32.3
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 32.2
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 33.22
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 33.06
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 30.36
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 30.63
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.54
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.53
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 727
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 668
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0.1
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.1
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.3
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.2
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.54
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.53
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": 0.1
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.1
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.3
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.2
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.54
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.53
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.1
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.1
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "CENTRAL_DORSAL": {
+            "rois_code": "PS:3",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 3
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 32.77
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 32.9
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 33.89
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 33.96
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 32.13
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 32.12
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.33
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.46
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 1582
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 1737
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": -0.13
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.13
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.77
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.9
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.33
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.46
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": -0.13
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.13
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.77
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.9
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.33
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.46
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": -0.13
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.13
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "TRICEPS": {
+            "rois_code": "PS:4",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 4
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 30.33
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 29.86
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 33.24
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 32.98
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 27.62
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 22.97
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 1.13
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 1.43
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 1332
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 1428
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0.47
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.47
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 30.33
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 29.86
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 1.13
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 1.43
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": 0.47
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.47
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 30.33
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 29.86
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 1.13
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 1.43
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.47
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.47
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "DORSAL": {
+            "rois_code": "PS:5",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 5
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 32.23
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 32.28
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 33.34
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 33.97
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 29.16
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 31.08
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.44
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.53
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 2223
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 2014
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": -0.05
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.05
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.23
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.28
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.44
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.53
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": -0.05
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.05
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.23
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.28
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.44
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.53
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": -0.05
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.05
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "ELBOW": {
+            "rois_code": "PS:6",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 6
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 29.95
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 28.61
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 31.92
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 30.76
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 27.79
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 26.73
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 1.09
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 1.01
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 276
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 249
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": 1.34
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 1.34
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 29.95
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 28.61
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 1.09
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 1.01
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": 1.34
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 1.34
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 29.95
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 28.61
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 1.09
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 1.01
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 1.34
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 1.34
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "LOWER_BACK": {
+            "rois_code": "PS:7",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 7
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 32.51
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 32.83
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 33.58
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 34.03
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 31.5
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 31.53
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.41
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.47
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 1146
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 905
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": -0.32
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.32
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.51
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 32.83
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.41
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.47
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": -0.32
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.32
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.51
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 32.83
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.41
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.47
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": -0.32
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.32
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "OUTER_BACK_FOREARM": {
+            "rois_code": "PS:8",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 8
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 31.09
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 30.76
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 32.1
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 32
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 28.97
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 28.38
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.78
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 532
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 471
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0.33
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.33
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 31.09
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 30.76
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.78
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": 0.33
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.33
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 31.09
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 30.76
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.78
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.33
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.33
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "INNER_BACK_FOREARM": {
+            "rois_code": "PS:9",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 9
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 29.62
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 28.96
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 31.1
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 30.72
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 27.04
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 26.73
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.76
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.76
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 449
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 458
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0.66
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.66
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 29.62
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 28.96
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.76
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.76
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": 0.66
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.66
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 29.62
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 28.96
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.76
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.76
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.66
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.66
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        },
+        "BACK_WRIST": {
+            "rois_code": "PS:10",
+            "metrics": {
+                "PROTOCOL_CODE": {
+                    "value": "PS"
+                },
+                "ROI_INDEX": {
+                    "value": 10
+                },
+                "RIGHT_MEAN_TEMP": {
+                    "value": 28.36
+                },
+                "LEFT_MEAN_TEMP": {
+                    "value": 28.3
+                },
+                "RIGHT_MAX_TEMP": {
+                    "value": 29.75
+                },
+                "LEFT_MAX_TEMP": {
+                    "value": 29.78
+                },
+                "RIGHT_MIN_TEMP": {
+                    "value": 25.87
+                },
+                "LEFT_MIN_TEMP": {
+                    "value": 26.36
+                },
+                "RIGHT_STANDARD_DEVIATION": {
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION": {
+                    "value": 0.58
+                },
+                "RIGHT_NUM_PXL": {
+                    "value": 277
+                },
+                "LEFT_NUM_PXL": {
+                    "value": 264
+                },
+                "ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0.06
+                },
+                "ABSOLUTE_ASYMMETRY": {
+                    "value": 0.06
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION": {
+                    "value": 0
+                },
+                "ASYMMETRY_VARIABILITY": {
+                    "value": null
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 28.36
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG": {
+                    "value": 28.3
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG": {
+                    "value": 0.58
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG": {
+                    "value": 0.06
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG": {
+                    "value": 0.06
+                },
+                "RIGHT_INJURED": {
+                    "value": false
+                },
+                "LEFT_INJURED": {
+                    "value": false
+                },
+                "NEUTRALIZED_ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "LEFT_SOFT_COEF_VARIATION_ALL_SESSIONS": {
+                    "value": 0
+                },
+                "RIGHT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 28.36
+                },
+                "LEFT_MEAN_TEMP_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 28.3
+                },
+                "RIGHT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.67
+                },
+                "LEFT_STANDARD_DEVIATION_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.58
+                },
+                "ASYMMETRY_RIGHT_LEFT_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.06
+                },
+                "ABSOLUTE_ASYMMETRY_HISTORICAL_AVG_ALL_SESSIONS": {
+                    "value": 0.06
+                },
+                "IS_ROI_VALID": {
+                    "value": true
+                }
+            }
+        }
+    }
+}
